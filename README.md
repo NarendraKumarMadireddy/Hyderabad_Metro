@@ -1,5 +1,11 @@
 # Hyderabad_Metro
 
+# Route Map
+![HYDmetromap](https://github.com/NarendraKumarMadireddy/Hyderabad_Metro/assets/95516178/46e4d5c5-b500-455b-85c6-24f612288d44)
+
+
+[HyderabadMetroRouteMap.pdf](https://github.com/NarendraKumarMadireddy/Hyderabad_Metro/files/12111268/HyderabadMetroRouteMap.pdf)
+
 # Metro Station Codes
     Node number                                       Station Name
         0                                              LBnagar
