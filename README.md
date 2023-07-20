@@ -2,7 +2,7 @@
 
 [HyderabadMetroRouteMap.pdf](https://github.com/NarendraKumarMadireddy/Hyderabad_Metro/files/12111268/HyderabadMetroRouteMap.pdf)
 
-# Metro Station Codes
+# Metro Station Codes:
     Node number                                       Station Name
         0                                              LBnagar
         1                                              Victoria_memorial
