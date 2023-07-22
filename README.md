@@ -8,15 +8,15 @@ COMPLEXITY: The time complexity of this code is O(V^2) where V is the number of 
 
 ## 56 Metro Station's Codes:
     Node number                                       Station Name
-        0                                              LBnagar
+        0                                              LB Nagar
         1                                              Victoria_memorial
         2                                              Chaitanyapuri
         3                                              Dilshukhnagar
-        4                                              Moosrambagh
+        4                                              Musarambagh
         5                                              New Market
         6                                              Malakpet
         7                                              MG Bus Station
-        8                                              Osmania_medical
+        8                                              Osmania Medical College
         9                                              GandhiBhavan
         10                                             Nampally
         11                                             Assembly
