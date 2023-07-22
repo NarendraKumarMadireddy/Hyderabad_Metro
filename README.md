@@ -20,7 +20,7 @@ COMPLEXITY: The time complexity of this code is O(V^2) where V is the number of 
         9                                              GandhiBhavan
         10                                             Nampally
         11                                             Assembly
-        12                                             Lakdikapool
+        12                                             Lakdi-ka-pul
         13                                             Khairtabad
         14                                             Irrummanzil
         15                                             Panjagutta
