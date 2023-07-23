@@ -38,7 +38,7 @@ COMPLEXITY: The time complexity of this code is O(V^2) where V is the number of 
         27                                             Sultanbazar
         28                                             Narayanguda
         29                                             Chikkadpali
-        30                                             RTCxroads
+        30                                             RTC X Roads
         31                                             Musheerabad
         32                                             Gandhihospital
         33                                             SecunderabadWest
