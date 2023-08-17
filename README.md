@@ -1,6 +1,6 @@
 # Hyderabad_Metro:
 ## Dijkstras-Algorithm:
-INTRODUCTION:This Java code represents a real-time use case of Dijkstra's algorithm to efficiently find the shortest path from a given source station to all other 55 metro stations in Hyderabad. The algorithm takes the source station as input from the user and calculates the minimum number of stations needed to reach every destination, providing an optimal route display.
+INTRODUCTION:This project represents a real-time use case of Dijkstra's algorithm to efficiently find the shortest path from a given source station to all other 55 metro stations in Hyderabad. The algorithm takes the source station as input from the user and calculates the minimum number of stations needed to reach every destination, providing an optimal route display.
 
 COMPLEXITY: The time complexity of this code is O(V^2) where V is the number of vertices in the graph, due to the nested loop in the dijkstra function. The space complexity is O(V) since the code uses arrays of size V to store distance and status information for each vertex.
 
